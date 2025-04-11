@@ -25,3 +25,29 @@ Detail Screen: Shows information about the selected Movie or TV Show.
 Kotlin
 XML
 Retrofit (for API integration )
+
+**Getting Started**
+
+1. Clone the repository:
+
+git clone - https://github.com/Swetamishra06/DiscoveryApp
+
+2. Open the project in Android Studio.
+
+3. Build and run the project on an emulator or physical device.
+
+
+**How it works**
+
+Toggle Button: Switches the content type between movies and TV shows.
+
+RecyclerView: Updates based on the selected type.
+
+Item Click: Navigates to the DetailScreen with relevant data passed via Bundle.
+
+
+**Future Enhancements**
+
+Search functionality
+Improve user experience 
+
