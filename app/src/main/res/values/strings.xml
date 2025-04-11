@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiscoveryApp</string>
+    <string name="Movies">Movies</string>
+    <string name = "apiKey">eDNuNJ5WhiDHsPHFNSVJd9MSivxorcbnZimfMeRK</string>
+    <string name="released">Released On -</string>
+    <string name="backToHome">Back To Home</string >
+    <string name="series">TV Series</string>>
+</resources>
