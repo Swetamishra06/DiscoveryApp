@@ -23,7 +23,9 @@ Detail Screen: Shows information about the selected Movie or TV Show.
 **Technologies Used**
 
 Kotlin
+
 XML
+
 Retrofit (for API integration )
 
 **Getting Started**
@@ -49,5 +51,6 @@ Item Click: Navigates to the DetailScreen with relevant data passed via Bundle.
 **Future Enhancements**
 
 Search functionality
+
 Improve user experience 
 
